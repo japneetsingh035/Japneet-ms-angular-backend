@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TodoListAPI.Tests
+build_property.ProjectDir = C:\J-SAS\Extras\ms-identity-javascript-angular-tutorial\3-Authorization-II\2-call-api-b2c\API\TodoListAPI.Tests\
